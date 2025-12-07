@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Website
+subtitle:
 
 profile:
   align: right
