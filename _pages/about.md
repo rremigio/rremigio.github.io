@@ -27,8 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD Candidate in the Department of Physics & Astronomy at the University of California, Irvine.
-Previously, I completed my M.S. in Astronomy at San Diego State University.
+I am a PhD Candidate in the Department of Physics & Astronomy at the University of California, Irvine.
+Previously, I completed my M.S. in Astronomy at San Diego State University, and my B.S. in Physics at the University 
+of California, Santa Barbara.
 
-Using one of the most powerful telescopes in the world, I investigate the evolution of supermassive black holes by examining the motions of gases in their environments. 
+My research primarily concerns the growth and evolution of supermassive black holes. More specifically, I analyze 
+integral-field data taken by the Keck Cosmic Web Imager (KCWI) on Keck-II, and map the spatially resolved kinematics
+of the gases in the surrounding environment.
 
+In one project, I investigate and compare the kinematics of the ionized [O III] gas in nearby active galaxies ([R. P. Remigio et al. 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adfe5d)). Currently, I am searching for extended Ly-alpha emission around high redshift (z>6.5) quasars using
+KCWI's red channel.
+
+If you are interested, please feel free to check the publications and projects pages to learn more.
