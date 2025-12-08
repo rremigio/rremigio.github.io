@@ -84,8 +84,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-spatially-resolved-o-iii-kinematics-of-nearby-agn-hosts",
-          title: 'Spatially Resolved [O III] Kinematics of Nearby AGN Hosts',
+            },},{id: "projects-spatially-resolved-o-iii-kinematics-of-nearby-active-galaxies",
+          title: 'Spatially Resolved [O III] Kinematics of Nearby Active Galaxies',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/oiii_kin_project/";
