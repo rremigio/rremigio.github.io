@@ -3,7 +3,7 @@ layout: page
 title: Spatially Resolved [O III] Kinematics of Nearby Active Galaxies
 #description: with background image
 img: assets/img/oiii_kin_thumbnail_2.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
@@ -31,10 +31,10 @@ Additionally, the [O III] line profile often exhibits asymmetries, which are
 indicative of non-gravitational kinematics, such as AGN-driven outflows.
 
 
-In my first project, I reduced and analyzed integral-field data from the 
+In this project, we reduced and analyzed integral-field data from the 
 Keck Cosmic Web Imager (KCWI) on the Keck-II telescope and mapped the spatially 
 resolved stellar and ionized gas kinematics for a sample of ten nearby active 
-galaxies. Comparing the kinematics of the stars and the [O III] gas, I found 
+galaxies. Comparing the kinematics of the stars and the [O III] gas, we found 
 that for this sample of galaxies, deviations from disk rotation in the ionized
 gas velocity fields were localized to regions close to the nucleus.
 
