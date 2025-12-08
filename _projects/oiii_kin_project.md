@@ -2,7 +2,7 @@
 layout: page
 title: Spatially Resolved [O III] Kinematics of Nearby AGN Hosts
 #description: with background image
-img: assets/img/12.jpg
+img: assets/img/oiii_kin_thumbnail.jpg
 importance: 1
 category: work
 related_publications: true
