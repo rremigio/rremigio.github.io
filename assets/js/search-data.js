@@ -84,6 +84,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-searching-for-extended-ly-alpha-around-high-redshift-quasars",
+          title: 'Searching for Extended Ly-alpha around High Redshift Quasars',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lya_kin_project/";
             },},{id: "projects-spatially-resolved-o-iii-kinematics-of-nearby-active-galaxies",
           title: 'Spatially Resolved [O III] Kinematics of Nearby Active Galaxies',
           description: "",
