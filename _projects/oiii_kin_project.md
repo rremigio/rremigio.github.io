@@ -5,7 +5,7 @@ title: Spatially Resolved [O III] Kinematics of Nearby AGN Hosts
 img: assets/img/oiii_kin_thumbnail.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <!-- Every project has a beautiful feature showcase page.
@@ -39,7 +39,7 @@ that for this sample of galaxies, deviations from disk rotation in the ionized
 gas velocity fields were localized to regions close to the nucleus.
 
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -53,7 +53,6 @@ gas velocity fields were localized to regions close to the nucleus.
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
--->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -64,12 +63,10 @@ gas velocity fields were localized to regions close to the nucleus.
     This image can also have a caption. It's like magic.
 </div>
 
-<!-- You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
--->
 
-<!--
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -101,4 +98,3 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
--->
