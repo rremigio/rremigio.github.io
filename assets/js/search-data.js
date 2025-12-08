@@ -88,7 +88,7 @@ ninja.data = [{
           title: 'Spatially Resolved [O III] Kinematics of Nearby AGN Hosts',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/oiii_kin/";
+              window.location.href = "/projects/oiii_kin_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
