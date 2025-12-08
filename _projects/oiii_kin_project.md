@@ -44,5 +44,5 @@ gas velocity fields were localized to regions close to the nucleus.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The spatially resolved [O III] and stellar kinematics mapped for five objects in our sample. Taken from R.P. Remigio et al. (2025).
 </div>
